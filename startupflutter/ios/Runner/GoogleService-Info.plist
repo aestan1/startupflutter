@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>200908484501-174i0cuos61j0p04n7341dk5t4c279q6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.200908484501-174i0cuos61j0p04n7341dk5t4c279q6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDY64KGYdZcOd08via9IiF050Woxo880g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>200908484501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.startupflutter</string>
+	<key>PROJECT_ID</key>
+	<string>trueqapp-564ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trueqapp-564ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:200908484501:ios:c1e75e1900bf453b5a909c</string>
+	<key>DATABASE_URL</key>
+	<string>https://trueqapp-564ce.firebaseio.com</string>
+</dict>
+</plist>

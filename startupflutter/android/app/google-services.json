@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200908484501",
+    "firebase_url": "https://trueqapp-564ce.firebaseio.com",
+    "project_id": "trueqapp-564ce",
+    "storage_bucket": "trueqapp-564ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200908484501:android:fc7bc43b8d49bd7c5a909c",
+        "android_client_info": {
+          "package_name": "com.example.startupflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200908484501-h2d6kg23gn24j4p7cr5sm01tee78qmku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDLj5YeoF5xClXzx3WLjnrKBO9Wf2LWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200908484501-h2d6kg23gn24j4p7cr5sm01tee78qmku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
